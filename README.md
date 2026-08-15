@@ -41,6 +41,7 @@ python mqtt_subscriber.py
 
 ```powershell
 python mqtt_subscriber.py --topic "/mqtt/#"
+python mqtt_subscriber.py --topic "/gw/#"
 ```
 
 ### Custom broker / port / QoS
